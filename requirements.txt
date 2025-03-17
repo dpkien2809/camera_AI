@@ -1,0 +1,8 @@
+faiss-cpu
+timm
+numpy
+pillow
+paho-mqtt
+torch
+torchvision
+opencv-python
